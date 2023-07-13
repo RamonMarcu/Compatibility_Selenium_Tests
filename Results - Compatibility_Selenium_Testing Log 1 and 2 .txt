@@ -1,0 +1,111 @@
+Compatibility Testing:
+Done by QA professionals/Testers to ensure that the web app meets performance benchmarks on different browser-OS combinations. For example, testing on different devices (mobile and desktop) to ensure that the front-end fits to scale (responsive); testing on different browsers to see if video ads render on the pages as they should.
+
+
+Log 1:
+
+Running 'Compatibility_test_OS_GoogleChrome_Desktop'
+19:23:59
+1.
+open on /website OK
+19:24:01
+2.
+setWindowSize on 2560x1080 OK
+19:24:01
+3.
+click on id=DrpDwnMn00label OK
+19:24:01
+4.
+click on id=DrpDwnMn01label OK
+19:24:02
+5.
+runScript on window.scrollTo(0,448) OK
+19:24:04
+6.
+click on id=DrpDwnMn02label OK
+19:24:06
+7.
+mouseOver on id=DrpDwnMn02label OK
+19:24:06
+8.
+mouseOut on id=DrpDwnMn02label OK
+19:24:07
+9.
+click on id=DrpDwnMn03label OK
+19:24:07
+10.
+click on id=DrpDwnMn04label OK
+19:24:08
+11.
+click on id=DrpDwnMn05label OK
+19:24:10
+'Compatibility_test_OS_GoogleChrome_Desktop' completed successfully
+19:24:12
+Running 'Compatibility_test_OS_GoogleChrome_Desktop'
+19:26:58
+1.
+open on /website OK
+19:26:59
+2.
+setWindowSize on 2560x1080 OK
+19:26:59
+3.
+click on id=DrpDwnMn00label OK
+19:26:59
+4.
+click on id=DrpDwnMn01label OK
+19:27:01
+5.
+runScript on window.scrollTo(0,448) OK
+19:27:02
+6.
+click on id=DrpDwnMn02label OK
+19:27:02
+7.
+mouseOver on id=DrpDwnMn02label OK
+19:27:03
+8.
+mouseOut on id=DrpDwnMn02label OK
+19:27:04
+9.
+click on id=DrpDwnMn03label OK
+19:27:04
+10.
+click on id=DrpDwnMn04label OK
+19:27:04
+11.
+click on id=DrpDwnMn05label OK
+19:27:05
+'Compatibility_test_OS_GoogleChrome_Desktop' completed successfully
+19:27:06
+
+
+
+Log 2:
+
+    Running 'Compatibility_test_OS_Firefox'
+    19:35:58
+    1.open on https://ramoncristian00.wixsite.com/website OK
+    19:35:59
+    2.setWindowSize on 1213x911 OK
+    19:35:59
+    3.click on id=DrpDwnMn01label OK
+    19:35:59
+    4.runScript on window.scrollTo(0,451) OK
+    19:36:00
+    5.click on id=DrpDwnMn02label OK
+    19:36:02
+    6.click on id=DrpDwnMn03label OK
+    19:36:02
+    7.click on id=DrpDwnMn04label OK
+    19:36:04
+    8.mouseOver on id=DrpDwnMn05label OK
+    19:36:05
+    9.click on id=DrpDwnMn05label OK
+    19:36:06
+    10.mouseOut on id=DrpDwnMn05label OK
+    19:36:06
+    11.mouseOver on css=#DrpDwnMn05 .rBTT56 > div OK
+    19:36:08
+    'Compatibility_test_OS_Firefox' completed successfully
+    19:36:08
